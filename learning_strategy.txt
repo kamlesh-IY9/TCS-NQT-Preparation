@@ -1,0 +1,372 @@
+================================================================================
+                        TCS NQT - DSA LEARNING STRATEGY
+================================================================================
+
+DECISION: SMART FOUNDATION FOCUS
+
+Good. This is a VERY smart decision.
+
+Most people ignore basics and jump to solving 50 problems.
+Then panic in exam.
+
+You stopped and identified the real issue:
+  "I'm not able to solve quickly."
+
+That is not a DSA problem.
+That is a **foundation clarity + pattern recognition problem.**
+
+And we fix it properly.
+
+================================================================================
+STEP 1: WHY YOU FEEL SLOW
+================================================================================
+
+Because right now your brain:
+  * Doesn't recognize patterns fast
+  * Thinks from scratch every time
+  * Is not comfortable with basic templates
+
+Solution:
+  Instead of solving 100 questions, we build 5 core patterns deeply.
+  Once those are automatic → speed increases naturally.
+
+================================================================================
+CORE BASICS FOR TCS NQT (YOU ONLY NEED THESE)
+================================================================================
+
+We rebuild from here:
+
+---
+1. LOOP MASTERY
+---
+  * for loop
+  * while loop
+  * enumerate
+  * nested loops
+
+---
+2. CONDITIONAL LOGIC MASTERY
+---
+  * if / elif / else
+  * multiple condition checks
+  * boundary cases
+
+---
+3. ARRAY TRAVERSAL PATTERNS
+---
+  * Single pass
+  * Two pointer
+  * Frequency count
+  * Running sum
+
+---
+4. DICTIONARY (VERY IMPORTANT FOR TCS)
+---
+  * Counting frequency
+  * Checking existence
+  * Hashing logic
+
+---
+5. BASIC TIME COMPLEXITY UNDERSTANDING
+---
+  * O(n)
+  * O(n²)
+  * When nested loop matters
+
+IMPORTANT:
+  No advanced tree right now.
+  No graph.
+  No DP.
+
+================================================================================
+NEW STRATEGY: BASIC REBUILD MODE (NEXT 2 DAYS)
+================================================================================
+
+Instead of:  "Solve this problem"
+
+We do:       "Understand how to think."
+
+Focus on building CONFIDENCE and PATTERN RECOGNITION first.
+
+================================================================================
+PRACTICE QUESTION 1: BASIC FILTER
+================================================================================
+
+Given:
+  a = [3, 7, 2, 9, 5]
+
+Task:
+  Print all elements greater than 4.
+
+Don't overthink.
+Write simple code.
+
+This tests:
+  * Loop
+  * Condition
+  * Basic thinking speed
+
+ACTION:
+  Send your code below.
+
+================================================================================
+
+Let's rebuild confidence first. 💪
+
+================================================================================
+                    COMPLETE TCS NQT PREPARATION ROADMAP
+================================================================================
+
+VALIDATION: ALIGNED WITH YOUR RESOURCES
+
+Perfect. This is the right approach. 🔥
+
+We will NOT ignore the material you shared.
+
+From now on:
+  * We will use GitHub sheets + TakeUForward list as PRIMARY coding source
+  * We will cover PART A (Foundation) properly
+  * We will cover PART B (Advanced Coding) deeply
+  * We will align everything with REAL TCS NQT pattern
+
+No random preparation.
+
+================================================================================
+IMPORTANT: TCS NQT EXAM STRUCTURE
+================================================================================
+
+TCS NQT = PART A (75 mins) + PART B (115 mins)
+
+You MUST clear BOTH parts to qualify.
+
+Your provided sources mainly cover:
+  * Arrays
+  * Strings
+  * Matrix
+  * Basic recursion
+  * Stack
+  * Subarray problems
+  * Simulation type questions
+
+Which matches PART B: Advanced Coding
+
+But PART A is equally important.
+
+================================================================================
+PART A - FOUNDATION (75 MINUTES)
+================================================================================
+
+---
+Section 1: NUMERICAL ABILITY (Very Important Topics Only)
+---
+
+From real TCS trend:
+  * Percentages
+  * Profit & Loss
+  * Ratio & Proportion
+  * Time Speed Distance
+  * Simple & Compound Interest
+  * Averages
+  * Mixtures
+  * Permutation & Combination (basic)
+  * Probability (basic)
+  * Data Interpretation (table/graph)
+
+PRACTICE APPROACH:
+  * Speed solving drills
+  * Formula memory
+  * 25-minute timed exercises
+
+---
+Section 2: REASONING ABILITY
+---
+
+High probability topics:
+  * Number Series
+  * Letter Series
+  * Coding-Decoding
+  * Blood Relations
+  * Seating Arrangement (linear + circular)
+  * Syllogism
+  * Data Sufficiency
+
+FOCUS:
+  We will not waste time on ultra-hard puzzles.
+  Focus on high-frequency patterns only.
+
+---
+Section 3: VERBAL ABILITY
+---
+
+Focus only on:
+  * Error Identification
+  * Sentence correction
+  * Para jumbles
+  * Reading comprehension (time management)
+  * Vocabulary (synonym/antonym basics)
+
+NOTE:
+  No deep grammar theory needed.
+  Practical application focus.
+
+================================================================================
+PART B - ADVANCED CODING (115 MINUTES) - THE PRIME DECIDER
+================================================================================
+
+---
+Section 1: Advanced Quant + Reasoning
+---
+
+Topics:
+  * P&C
+  * Probability
+  * Advanced Data Interpretation
+  * Logical puzzles
+
+STRATEGY:
+  Limited but strategic practice.
+
+---
+Section 2: ADVANCED CODING (MOST IMPORTANT FOR TCS)
+---
+
+Using your provided GitHub sheets, we categorize into:
+
+╔════════════════════════════════════════════════════════════════════════╗
+║ CATEGORY A – ARRAYS (HIGHEST PRIORITY)                                 ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+From your GitHub sheets:
+  * Move zeros to end
+  * Find second largest
+  * Rotate array left/right
+  * Subarray sum problems
+  * Kadane's algorithm (max subarray)
+  * Equilibrium index
+  * Chocolate distribution
+  * Odd-even traffic fine calculation
+  * Majority element
+  * Missing number in array
+
+DIFFICULTY: Medium
+TCS FREQUENCY: High
+
+╔════════════════════════════════════════════════════════════════════════╗
+║ CATEGORY B – STRINGS                                                    ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+Topics:
+  * Palindrome check
+  * Anagram check
+  * Reverse words in string
+  * Frequency count
+  * Longest substring (without repeating)
+  * String compression
+  * Pattern matching basics
+
+TCS FREQUENCY: Medium-High
+
+╔════════════════════════════════════════════════════════════════════════╗
+║ CATEGORY C – MATRIX                                                     ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+Topics:
+  * Spiral traversal
+  * Rotate matrix 90 degrees
+  * Diagonal sum
+  * Row/column sum
+  * Matrix search
+
+TCS FREQUENCY: Medium
+
+╔════════════════════════════════════════════════════════════════════════╗
+║ CATEGORY D – STACK & LOGIC                                              ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+Topics:
+  * Valid parentheses
+  * Next greater element
+  * Stock span problem
+  * Basic stack operations
+
+TCS FREQUENCY: Medium
+
+╔════════════════════════════════════════════════════════════════════════╗
+║ CATEGORY E – BASIC RECURSION & SIMPLE DP                                ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+Topics:
+  * Fibonacci series
+  * Climbing stairs
+  * Basic knapsack pattern
+  * Simple recursion problems
+
+TCS FREQUENCY: Low-Medium
+
+================================================================================
+IMPORTANT ADJUSTMENT TO TIMELINE
+================================================================================
+
+Since you identified: "I'm not solving quickly"
+
+We modify the 11-day plan as follows:
+
+Days 1-2:
+  BASIC REBUILD (Loops, Dictionary, Pattern Recognition)
+  No problem solving yet - just foundation clarity.
+
+Days 3-9:
+  HEAVY PRACTICE from your GitHub sheets
+  Daily Part A + Part B practice.
+
+Days 10-11:
+  FULL MOCK EXAM + REVISION
+  Timed practice under exam conditions.
+
+================================================================================
+FINAL CONFIRMATION OF APPROACH
+================================================================================
+
+From now on:
+
+Every coding question we solve will:
+  → Come from TCS pattern
+  → Be similar to your provided links
+  → Include interview-level explanation
+  → Include time complexity analysis
+
+And we will also daily practice PART A.
+
+================================================================================
+YOUR PREFERENCE: CHOOSE YOUR STUDY SCHEDULE
+================================================================================
+
+Do you want to study in this order:
+
+OPTION A:
+  Morning  → Aptitude/Numerical/Reasoning (Part A)
+  Night    → Coding (Part B)
+  BENEFIT: Balanced approach, avoids mental fatigue from one type
+
+OPTION B:
+  Days 1-2 → Only coding basics first (rebuild foundation)
+  Day 3+   → Mix both aptitude & coding equally
+  BENEFIT: Fast-track coding confidence, then add aptitude
+
+OPTION C:
+  Custom → Tell us your preference and schedule
+
+Choose what fits YOUR lifestyle and energy patterns.
+
+================================================================================
+
+We start STRUCTURED EXECUTION from your next message.
+
+Tell us:
+  1. Which option (A/B/C)?
+  2. When can you start?
+  3. How many hours per day can you dedicate?
+
+Let's go. 💪
+
+================================================================================

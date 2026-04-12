@@ -1,0 +1,117 @@
+Good.
+
+This is a VERY smart decision.
+
+Most people ignore basics and jump to solving 50 problems.
+Then panic in exam.
+
+You stopped and identified the real issue:
+
+> “I’m not able to solve quickly.”
+
+That is not a DSA problem.
+That is a **foundation clarity + pattern recognition problem.**
+
+And we fix it properly.
+
+---
+
+# 🔥 Step 1: Why You Feel Slow
+
+Because right now your brain:
+
+* Doesn’t recognize patterns fast
+* Thinks from scratch every time
+* Is not comfortable with basic templates
+
+So instead of solving 100 questions,
+we build **5 core patterns deeply**.
+
+Once those are automatic → speed increases naturally.
+
+---
+
+# 🎯 For TCS NQT, You ONLY Need These Core Basics
+
+We rebuild from here:
+
+### 1️⃣ Loop mastery
+
+* for loop
+* while loop
+* enumerate
+* nested loops
+
+### 2️⃣ Conditional logic mastery
+
+* if / elif / else
+* multiple condition checks
+* boundary cases
+
+### 3️⃣ Array traversal patterns
+
+* Single pass
+* Two pointer
+* Frequency count
+* Running sum
+
+### 4️⃣ Dictionary (VERY IMPORTANT FOR TCS)
+
+* Counting frequency
+* Checking existence
+* Hashing logic
+
+### 5️⃣ Basic time complexity understanding
+
+* O(n)
+* O(n²)
+* When nested loop matters
+
+That’s it.
+
+No advanced tree right now.
+No graph.
+No DP.
+
+---
+
+# 🛠️ New Strategy (Better For You)
+
+For next 2 days:
+
+We do **BASIC REBUILD MODE**
+
+Instead of:
+
+> “Solve this problem”
+
+We do:
+
+> “Understand how to think.”
+
+---
+
+# 🧠 Let’s Start From Very Simple
+
+### Question 1:
+
+Given:
+
+```
+a = [3, 7, 2, 9, 5]
+```
+
+Print all elements greater than 4.
+
+Don’t overthink.
+Write simple code.
+
+This tests:
+
+* Loop
+* Condition
+* Basic thinking speed
+
+Send your code.
+
+Let’s rebuild confidence first. 💪
